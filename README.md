@@ -116,5 +116,11 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 - 📧 Email: alaniszambrano01@gmail.com 
 
 ---
+## 🌐 Redes
 
+<p align="center">
+  <a href="https://instagram.com/@xxalizzamxx" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" />
+  </a>
+</p>
 ⭐ *"La tecnología es más poderosa cuando resuelve problemas reales."*
