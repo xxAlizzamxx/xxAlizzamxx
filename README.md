@@ -118,8 +118,8 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 ---
 ## 🌐 Redes
 
-<p align="center">
-  <a href="https://instagram.com/@xxalizzamxx" target="_blank">
+<p>
+  <a href="[https://instagram.com/@xxalizzamxx](https://www.instagram.com/xxalizzamxx?igsh=MXNqeHI4aW40ZWJkdw==)" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" />
   </a>
 </p>
