@@ -112,8 +112,8 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://linkedin.com/in/TUUSUARIO  
-- 📧 Email: tuemail@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/alaniszambrano
+- 📧 Email: alaniszambrano01@gmail.com 
 
 ---
 
