@@ -123,7 +123,7 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" />
   </a>
   
-  <a href="https://x.com/TUUSUARIO" target="_blank">
+  <a href="https://x.com/XxalizzamxX" target="_blank">
     <img src="https://img.icons8.com/fluency/48/twitterx.png" width="40" />
   </a>
 
