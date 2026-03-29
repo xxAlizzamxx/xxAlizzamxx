@@ -118,9 +118,17 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 ---
 ## 🌐 Redes
 
-<p>
-  <a href="[https://instagram.com/@xxalizzamxx](https://www.instagram.com/xxalizzamxx?igsh=MXNqeHI4aW40ZWJkdw==)" target="_blank">
+<p align="center">
+  <a href="https://www.instagram.com/xxalizzamxx" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" />
+  </a>
+  
+  <a href="https://x.com/TUUSUARIO" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/twitterx.png" width="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/TUUSUARIO" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" />
   </a>
 </p>
 ⭐ *"La tecnología es más poderosa cuando resuelve problemas reales."*
