@@ -18,6 +18,8 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 ## 🏆 Logros
 
 - 🥇 Ganadora del **VibeCoding Challenge** en el Tech Caribe Fest (Cooweb)
+- 🥉 3er lugar en la **Hackathon de Ciberseguridad Talento Tech** en convenio **Unilibre - MinTIC**, con el proyecto **CyberShield-Grid**, un detector de amenazas y ciberataques que utiliza geolocalización para mejorar la detección y respuesta ante incidentes
+- 🏆 Ganadora del **Demo-Day by Cooweb** con el proyecto **FincaOS**
 - 🚀 Reconocida por el desarrollo de soluciones tecnológicas innovadoras con impacto social
 - 🤝 Experiencia trabajando en equipo bajo presión en entornos tecnológicos
 
@@ -43,6 +45,24 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 ### 🔹 Estado del proyecto:
 - Prototipo funcional en fase de pruebas
 - Alto potencial de escalabilidad e impacto social
+
+---
+
+## 🏘 Proyecto Destacado — FincaOS
+
+**FincaOS** es una plataforma diseñada para centralizar la gestión de comunidades residenciales en un solo lugar, optimizando la comunicación, administración y seguimiento de procesos dentro de conjuntos y edificios residenciales.
+
+### 🔹 Funcionalidades principales:
+- 🛠 Reporte y seguimiento de incidencias
+- 💳 Gestión y control de pagos
+- 🤝 Coordinación de proveedores y servicios
+- 📋 Organización centralizada de la información
+- 🤖 Automatización e integración con Inteligencia Artificial para convertir información en respuestas y acciones rápidas
+
+### 🔹 Impacto:
+- Mejora la transparencia y eficiencia en la gestión residencial
+- Facilita la comunicación entre residentes y administración
+- Reduce tiempos de respuesta mediante automatización inteligente
 
 ---
 
@@ -116,6 +136,7 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 - 📧 Email: alaniszambrano01@gmail.com 
 
 ---
+
 ## 🌐 Redes
 
 <p align="center">
@@ -131,4 +152,5 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" />
   </a>
 </p>
+
 ⭐ *"La tecnología es más poderosa cuando resuelve problemas reales."*
