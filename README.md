@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hola 👋, soy Alanis Zambrano</h1>
 <h3 align="center">Desarrolladora en formación en IA | Entusiasta de Ciberseguridad | Construyendo tecnología con impacto 🚀</h3>
 
@@ -18,7 +19,7 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 ## 🏆 Logros
 
 - 🥇 Ganadora del **VibeCoding Challenge** en el Tech Caribe Fest (Cooweb)
-- 🥉 3er lugar en la **Hackathon de Ciberseguridad Talento Tech** en convenio **Unilibre - MinTIC**, con el proyecto **CyberShield-Grid**, un detector de amenazas y ciberataques que utiliza geolocalización para mejorar la detección y respuesta ante incidentes
+- 🥉 3er lugar en la **Hackathon de Ciberseguridad Talento Tech** en convenio **Unilibre - MinTIC**
 - 🏆 Ganadora del **Demo-Day by Cooweb** con el proyecto **FincaOS**
 - 🚀 Reconocida por el desarrollo de soluciones tecnológicas innovadoras con impacto social
 - 🤝 Experiencia trabajando en equipo bajo presión en entornos tecnológicos
@@ -48,21 +49,15 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 
 ---
 
-## 🏘 Proyecto Destacado — FincaOS
+## 🚀 Otros Proyectos
 
-**FincaOS** es una plataforma diseñada para centralizar la gestión de comunidades residenciales en un solo lugar, optimizando la comunicación, administración y seguimiento de procesos dentro de conjuntos y edificios residenciales.
+### 🔹 CyberShield-Grid
+Detector de amenazas y ciberataques que utiliza geolocalización para mejorar la detección y respuesta ante incidentes de seguridad informática.
 
-### 🔹 Funcionalidades principales:
-- 🛠 Reporte y seguimiento de incidencias
-- 💳 Gestión y control de pagos
-- 🤝 Coordinación de proveedores y servicios
-- 📋 Organización centralizada de la información
-- 🤖 Automatización e integración con Inteligencia Artificial para convertir información en respuestas y acciones rápidas
+### 🔹 FincaOS
+Plataforma que centraliza la gestión de comunidades residenciales en un solo lugar, permitiendo reportar incidencias, hacer seguimiento, gestionar pagos y coordinar proveedores de forma clara y organizada.
 
-### 🔹 Impacto:
-- Mejora la transparencia y eficiencia en la gestión residencial
-- Facilita la comunicación entre residentes y administración
-- Reduce tiempos de respuesta mediante automatización inteligente
+Además, utiliza automatización e inteligencia artificial para convertir la información en respuestas y acciones rápidas, haciendo todo el proceso más eficiente y transparente.
 
 ---
 
@@ -119,6 +114,7 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 - Actualmente en proceso de aprendizaje en IA
 - Explorando aplicaciones prácticas en soluciones reales
 - Interesada en integrar IA en productos tecnológicos
+- 📜 Certificada por **Anthropic** y **Platzi** en el uso de **Claude Code**
 
 ---
 
@@ -154,3 +150,4 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 </p>
 
 ⭐ *"La tecnología es más poderosa cuando resuelve problemas reales."*
+```
