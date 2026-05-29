@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora en formación en IA | Entusiasta de Ciberseguridad | Construyendo tecnología con impacto 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=xxAlizzamxx&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="views" />
 </p>
 
 <p align="center">
@@ -68,15 +68,12 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=dark&locale=es" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxAlizzamxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxAlizzamxx&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=dark&locale=es" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=dark&locale=es" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=xxAlizzamxx&theme=tokyonight&hide_border=false&locale=es" alt="GitHub Streak" />
 </p>
 
 ---
