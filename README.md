@@ -1,4 +1,3 @@
-md
 <h1 align="center">Hola 👋, soy Alanis Zambrano</h1>
 <h3 align="center">Desarrolladora en formación en IA | Entusiasta de Ciberseguridad | Construyendo tecnología con impacto 🚀</h3>
 
@@ -20,6 +19,7 @@ Tengo experiencia creando aplicaciones funcionales, participando en entornos com
 
 - 🥇 Ganadora del **VibeCoding Challenge** en el Tech Caribe Fest (Cooweb)
 - 🥉 3er lugar en la **Hackathon de Ciberseguridad Talento Tech** en convenio **Unilibre - MinTIC**
+- 🥉 3er lugar en la **Hackathon Barranqui-IA 2026** con el proyecto **Signara**
 - 🏆 Ganadora del **Demo-Day by Cooweb** con el proyecto **FincaOS**
 - 🚀 Reconocida por el desarrollo de soluciones tecnológicas innovadoras con impacto social
 - 🤝 Experiencia trabajando en equipo bajo presión en entornos tecnológicos
@@ -150,4 +150,3 @@ Además, utiliza automatización e inteligencia artificial para convertir la inf
 </p>
 
 ⭐ *"La tecnología es más poderosa cuando resuelve problemas reales."*
-```
